@@ -1,2 +1,2 @@
 # daily-learning-log-Python
-learning log for python technology
+# learning log for python technology
